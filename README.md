@@ -6,6 +6,7 @@
 - 💼 I’ve worked at Egyptian companies and freelance with **international clients on Upwork**
 - 📫 How to reach me: **sobhi7070@gmail.com**
 - 🌐 Portfolio: [(https://portfolio-mohammedsobhi.netlify.app/)]
+- 💼 Upwork Profile: [upwork.com/freelancers/mohamedsobhi5](https://www.upwork.com/freelancers/mohamedsobhi5)
 
 ---
 
