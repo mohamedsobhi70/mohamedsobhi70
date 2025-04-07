@@ -4,8 +4,8 @@
 - 🔭 I’m currently working as a **Frontend Developer**  
 - 🌱 I’m focusing on modern tools like **React, Next.js, TypeScript, Tailwind CSS**  
 - 💼 I’ve worked at Egyptian companies and freelance with **international clients on Upwork**
-- 📫 How to reach me: **mohamed.sobhi.omer@gmail.com**
-- 🌐 Portfolio: [Coming Soon]
+- 📫 How to reach me: **sobhi7070@gmail.com**
+- 🌐 Portfolio: [(https://portfolio-mohammedsobhi.netlify.app/)]
 
 ---
 
